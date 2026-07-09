@@ -51,14 +51,6 @@ Git • GitHub • Jupyter Notebook • VS Code • Power BI
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandra-seb84&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-seb84&layout=compact&theme=tokyonight) 
-
----
-
 ## 📫 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/sandra-seb
